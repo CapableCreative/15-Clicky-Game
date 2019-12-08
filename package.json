@@ -1,0 +1,23 @@
+{
+  "name": "15-clicky-game",
+  "version": "1.0.0",
+  "description": "FSF Trilogy Homework - Clicky Game (React #1)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CapableCreative/15-Clicky-Game.git"
+  },
+  "keywords": [
+    "React",
+    "react.js"
+  ],
+  "author": "Stephen L. Fox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CapableCreative/15-Clicky-Game/issues"
+  },
+  "homepage": "https://github.com/CapableCreative/15-Clicky-Game#readme"
+}
